@@ -1,0 +1,25 @@
+{
+  "name": "drive_task",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.5",
+    "bootstrap-vue-next": "^0.28.6",
+    "vue": "^3.5.13",
+    "vue-mathjax-next": "^0.0.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.3",
+    "i": "^0.3.7",
+    "npm": "^11.3.0",
+    "unplugin-vue-components": "^28.5.0",
+    "vite": "^6.2.4",
+    "vite-plugin-vue-devtools": "^7.7.2"
+  }
+}
